@@ -27,22 +27,6 @@ A charming microblog / personal corner built with **React + Vite**. Share your t
 ---
 
 
-##  Project Structure
-aki-s-little-corner/
-├── public/ # Static assets & index.html
-├── src/
-│ ├── components/ # Reusable UI pieces
-│ ├── pages/ # Blog-like pages
-│ ├── App.jsx # App root
-│ └── main.jsx # Entrypoint
-├── .gitignore
-├── README.md # You’re here
-├── package.json
-├── vite.config.js
-├── tailwind.config.js
-├── postcss.config.js
-└── eslint.config.js
-
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/elshiddanzenaquino/aki-s-little-corner.git
